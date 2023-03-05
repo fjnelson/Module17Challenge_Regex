@@ -17,7 +17,7 @@ N/A
 
 ## Usage
 Screenshot of readme creation
-![alt text](/Develop/screenshot.JPG) <br />
+![screenshot](/Develop/screenshot.JPG) <br />
 
 
 ## Credits
