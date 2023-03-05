@@ -13,7 +13,9 @@ N/A
 
 ## Installation
 
-N/A
+Gist URL: https://gist.github.com/fjnelson/f16a72b9c21622b4de1a5e212c6a8e32
+Clone the Gist via SSH: git@gist.github.com:f16a72b9c21622b4de1a5e212c6a8e32.git
+Embed the Gist: <script src="https://gist.github.com/fjnelson/f16a72b9c21622b4de1a5e212c6a8e32.js"></script>
 
 ## Usage
 Screenshot of readme creation
