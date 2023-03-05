@@ -13,18 +13,15 @@ N/A
 
 ## Installation
 
-
+N/A
 
 ## Usage
 Screenshot of readme creation
-![alt text](placeholder) <br />
-![alt text](placeholder)
+![alt text](/Develop/screenshot.JPG) <br />
 
-Video of readme creation
-[Video Demo](placeholder)
 
 ## Credits
-
+ChatGBT for assisting in JavaScript Regex creation.
 
 ## License
 
