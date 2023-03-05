@@ -13,7 +13,7 @@ N/A
 
 ## Installation
 
-open integrated terminal for index.js and run 'npm i'
+
 
 ## Usage
 Screenshot of readme creation
@@ -24,8 +24,7 @@ Video of readme creation
 [Video Demo](placeholder)
 
 ## Credits
-Credit: sylviaprabudy - https://github.com/sylviaprabudy/tech-blog
-Aug 2020
+
 
 ## License
 
