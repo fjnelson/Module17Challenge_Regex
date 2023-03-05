@@ -1,12 +1,13 @@
-# Title (replace with your title)
+# Title: gist-regex
 
-Introductory paragraph (replace this with your text)
-
+Regex, or Regular Expressions, is a pattern matching system that is built into many programming languages. <br />
+A regular expression is a sequence of characters that define a search pattern. These patterns can be used to search for specific strings or patterns of characters within larger blocks of text.
 
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+Summary:
+This regular expression uses look-behind and look-ahead assertions to ensure that the email addresses are surrounded by whitespace or the beginning/end of the string. The group around the email address captures it for later use. This regex should match all valid email addresses in the string, and exclude any invalid email addresses such as "invalid email.com". The matches are then logged to the console.
 
 const text = "Alice Johnson <alice.johnson@example.com>, Bob Lee <bob.lee@example.com>, \
 Carla Davis <carla.davis@example.com>, user+label@example.com, invalid email.com";
@@ -24,8 +25,6 @@ while ((match = regex.exec(text)) !== null) {
 
 // print the matches
 console.log(matches);
-
-This regular expression uses look-behind and look-ahead assertions to ensure that the email addresses are surrounded by whitespace or the beginning/end of the string. The group around the email address captures it for later use. This regex should match all valid email addresses in the string, and exclude any invalid email addresses such as "invalid email.com". The matches are then logged to the console.
 
 ## Table of Contents
 
@@ -70,4 +69,4 @@ Look-ahead ((?=)): matches the pattern only if it is followed by the specified p
 Look-behind ((?<=)): matches the pattern only if it is preceded by the specified pattern.
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Author: https://github.com/fjnelson
