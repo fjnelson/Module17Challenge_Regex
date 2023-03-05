@@ -12,10 +12,9 @@ Codebase correction that follows accessibility standards so that the site is opt
 N/A
 
 ## Installation
-
-Gist URL: https://gist.github.com/fjnelson/f16a72b9c21622b4de1a5e212c6a8e32 <br />
-Clone the Gist via SSH: git@gist.github.com:f16a72b9c21622b4de1a5e212c6a8e32.git <br />
-Embed the Gist: <script src="https://gist.github.com/fjnelson/f16a72b9c21622b4de1a5e212c6a8e32.js"></script> <br />
+[Gist URL](https://gist.github.com/fjnelson/f16a72b9c21622b4de1a5e212c6a8e32)<br />
+[Clone via SSH](git@gist.github.com:f16a72b9c21622b4de1a5e212c6a8e32.git) <br />
+[Embed in script](https://gist.github.com/fjnelson/f16a72b9c21622b4de1a5e212c6a8e32.js) <br />
 
 ## Usage
 Screenshot of readme creation
